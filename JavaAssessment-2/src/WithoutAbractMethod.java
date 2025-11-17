@@ -19,12 +19,17 @@ abstract class Calclulates {
 
 class Calclulator extends Calclulates{
     //Calclulator class inherits methods from Calculates class
+    void calci() {
+    System.out.println("Performing calculation");
+}
 }
 
 public class WithoutAbractMethod{
     public static void main(String[] args){
         Calclulator c=new Calclulator();
+        c.calci();
         c.add();
         c.Sub();
     }
 }
+
