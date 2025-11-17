@@ -1,7 +1,7 @@
 # Java-OOP-Assessment-2
 
 ---
-##✅ Overview
+## ✅ Overview
 
 This repository contains Java programs demonstrating important Object-Oriented Programming (OOP) concepts:
 
@@ -42,11 +42,12 @@ This program demonstrates Encapsulation, where:
 - Public getter and setter methods are used to access and modify them
 
 **Concepts Covered:**
+```bash
 ✔ Private data members
 ✔ Getters & Setters
 ✔ Data hiding
 ✔ Secure access to variables
-
+```
 ---
 
 ### 3. Program: super Keyword using Inheritance
@@ -122,7 +123,7 @@ git clone https://github.com/Shilpask123/Java-OOP-Assessment-2.git
 **2. Open the project in IntelliJ IDEA, Eclipse, or any Java IDE.**
 
 **3. Navigate to the required file:**
-``bash
+```bash
 Java-OOP-Assessment-2/JavaAssessment-2/src/
 ```
 
