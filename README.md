@@ -92,7 +92,7 @@ This program demonstrates that:
 
 ---
 
-##📂 Folder Structure
+## 📂 Folder Structure
 
 ```bash
 Java-OOP-Assessment-2/
