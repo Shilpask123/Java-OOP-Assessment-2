@@ -15,7 +15,7 @@ Each program is created to help understand core Java OOP principles with simple 
 
 ---
 
-### 1. . Program: Access Modifiers in Java
+### 1. Program: Access Modifiers in Java
 This program explains all four access modifiers:
 
 | Modifier  | Accessible Within Class | Within Package | Subclass | Outside Package          |
