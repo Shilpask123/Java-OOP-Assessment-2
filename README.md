@@ -42,12 +42,12 @@ This program demonstrates Encapsulation, where:
 - Public getter and setter methods are used to access and modify them
 
 **Concepts Covered:**
-```bash
+
 ✔ Private data members
 ✔ Getters & Setters
 ✔ Data hiding
 ✔ Secure access to variables
-```
+
 ---
 
 ### 3. Program: super Keyword using Inheritance
