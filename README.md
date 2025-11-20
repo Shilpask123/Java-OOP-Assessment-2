@@ -1,5 +1,4 @@
 # Java-OOP-Assessment-2
-
 ---
 ## ✅ Overview
 
@@ -26,9 +25,9 @@ This program explains all four access modifiers:
 | default   | ✔                       | ✔              | ✖        | ✖                        |
 
 **Concepts Covered:**
-✔ public
-✔ private
-✔ protected
+- [x] public
+- [x] private
+- [x] protected
 ✔ default
 ✔ Package creation
 ✔ Access through inheritance and objects
