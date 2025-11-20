@@ -26,11 +26,11 @@ This program explains all four access modifiers:
 
 **Concepts Covered:**
 - [x] public
-- [ ] private
-● protected
-◆ default
-■ Package creation
-* Access through inheritance and objects
+- [x] private
+- [x] protected
+- [x] default
+- [x] Package creation
+- [x] Access through inheritance and objects
 
 ---
 
@@ -42,10 +42,10 @@ This program demonstrates Encapsulation, where:
 
 **Concepts Covered:**
 
-➤ Private data members
-➜ Getters & Setters
-✔ Data hiding
-✔ Secure access to variables
+- [x] Private data members
+- [x] Getters & Setters
+- [x] Data hiding
+- [x] Secure access to variables
 
 ---
 
@@ -57,9 +57,9 @@ This program demonstrates how the super keyword is used to:
 - Access parent class variables
 
 **Concepts Covered:**
-✔ Inheritance
-✔ super()
-✔ Method overriding
+- [x] Inheritance
+- [x] super()
+- [x] Method overriding
 
 ---
 
@@ -71,9 +71,9 @@ This program shows:
 - How a subclass implements the abstract methods
 
 **Concepts Covered:**
-✔ Abstract class
-✔ Abstract method
-✔ Method implementation in child class
+- [x] Abstract class
+- [x] Abstract method
+- [x] Method implementation in child class
 
 ---
 
@@ -85,9 +85,9 @@ This program demonstrates that:
 - It can contain normal methods
 
 **Concepts Covered:**
-✔ Abstract class
-✔ Concrete methods
-✔ Inheritance
+- [x] Abstract class
+- [x] Concrete methods
+- [x] Inheritance
 
 ---
 
