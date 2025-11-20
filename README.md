@@ -26,11 +26,11 @@ This program explains all four access modifiers:
 
 **Concepts Covered:**
 - [x] public
-- [x] private
-- [x] protected
-✔ default
-✔ Package creation
-✔ Access through inheritance and objects
+- [ ] private
+● protected
+◆ default
+■ Package creation
+○ Access through inheritance and objects
 
 ---
 
@@ -42,8 +42,8 @@ This program demonstrates Encapsulation, where:
 
 **Concepts Covered:**
 
-✔ Private data members
-✔ Getters & Setters
+➤ Private data members
+➜ Getters & Setters
 ✔ Data hiding
 ✔ Secure access to variables
 
