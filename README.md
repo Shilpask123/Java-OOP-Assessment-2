@@ -27,10 +27,10 @@ This program explains all four access modifiers:
 **Concepts Covered:**
 - [x] public
 - [ ] private
-● protected
-◆ default
-■ Package creation
-○ Access through inheritance and objects
+-● protected
+-◆ default
+-■ Package creation
+-○ Access through inheritance and objects
 
 ---
 
